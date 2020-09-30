@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "This bootcamp gives a gentle introduction to R and RStudio, transforming and visualizing data with the tidyverse, and the basics of R Markdown."
+description = "MEGAPOLIS2020: Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts"
 
 ############################
 ## Site Features
@@ -117,11 +117,11 @@ contact_links = [
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "ducks.jpg"
-twitter_image = "ducks.jpg"
+sharing_image = "logo.png"
+twitter_image = "logo.png"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "_bcullen"
+twitter = ""
 
 ############################
 ## Regional Settings
@@ -131,7 +131,7 @@ twitter = "_bcullen"
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
 address_format = "en-us"
