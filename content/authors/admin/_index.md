@@ -8,9 +8,6 @@ organizations:
 - name: "Lomonosov Moscow State University"
 role: "Faculty of Geography"
 # social:
-# - icon: r-project
-#   icon_pack: fab
-#   link: https://bit.ly/3caJRCN
 # - icon: slack
 #   icon_pack: fab
 #   link: https://uodatascience.slack.com/

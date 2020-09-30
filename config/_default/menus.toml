@@ -34,7 +34,7 @@
   weight = 60
   
 [[main]]
-  name = "Resources"
+  name = "Registration"
   url = "resources"
   weight = 70
   

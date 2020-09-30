@@ -48,11 +48,7 @@ hero_media = "blimp.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Last updated: 2020-03-31'
+  label = 'Last updated: 2020-09-30'
 +++
 
 This is a [demo course website created](https://github.com/apreshill/share-blogdown) for an [RStudio Education](https://education.rstudio.com/) webinar by [Alison Hill](https://alison.rbind.io/) and [Desirée De Leon](https://desiree.rbind.io/).
-
-To turn off this announcement, change **content/home/hero.md** from **active = true** to **active = false**.
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/rstudio-education/sharing-short-notice" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

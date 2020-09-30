@@ -12,24 +12,17 @@ subtitle = "All workshop sessions will take place live via Zoom."
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+# For available  icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "<a href='https://bit.ly/3caJRCN'>RStudio Cloud</a>"
-  description = "Where you will be working hands-on with R through interactive exercises"
+  icon = "video"
+  icon_pack = "fas"
+  name = "<a href='https://zoom.us/'>Zoom meeting</a>"
+  description = "Where a live lectures will be given"
   
 [[feature]]
-  icon = "slack"
+  icon = "youtube"
   icon_pack = "fab"
-  name = "<a href='https://uodatascience.slack.com/'>Slack</a>"
-  description = "For communicating outside of the workshop (use channel #bootcamp2020)"
-  
-[[feature]]
-  icon = "github"
-  icon_pack = "fab"
-  name = "<a href='https://github.com/uopsych/summeR-bootcamp-2020'>Github repo</a>"
-  description = "For accessing source code of all workshop materials"
-
+  name = "<a href='https://www.youtube.com/'>Yotube channel</a>"
+  description = "Where lectures will be stored"
 +++
