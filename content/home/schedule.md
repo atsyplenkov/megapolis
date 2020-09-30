@@ -29,7 +29,7 @@ subtitle = ""
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "**Young scientests school** <br> <i class='fa fa-calendar'></i> Thursday, 26 Nov. - <br> Friday, 27 Nov."
+  name = "**Young scientists school** <br><br> <i class='fa fa-calendar'></i> Thursday, 26 Nov. - <br> Friday, 27 Nov."
   description = ""
 
 +++
