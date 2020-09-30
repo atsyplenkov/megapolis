@@ -48,4 +48,11 @@ output:
 <!--   </p> -->
 <!-- </form> -->
 
+:::clock
+If possible, please make sure you have a [Zoom account](zoom.us) set up through the same E-mail address you used in the registration form *before* the first session on Thursday 11/26. Thank you!
+
+We will use the same Zoom link for each day of the bootcamp, and you will receive the link via email and slack.
+:::
+
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9MicwcS5aiEgpTcknTTOHPO6w8K-dPx1Bto8Z7ycvbbikDg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
