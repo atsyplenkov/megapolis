@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "UO Psych R Bootcamp"
+title = "MEGAPOLIS2020"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -26,7 +26,7 @@ theme = "hugo-academic"
 enableGitInfo = false
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-179236690-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
