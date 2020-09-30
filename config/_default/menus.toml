@@ -4,12 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Prework"
-  url = "prework"
+  name = "Invitation"
+  url = "#"
   weight = 10
   
 [[main]]
-  name = "Schedule"
+  name = "Key dates"
   url = "#schedule"
   weight = 20
 
@@ -23,13 +23,13 @@
   url = "#materials"
   weight = 40
 
-[[main]]
-  name = "Code of Conduct"
-  url = "#code_of_conduct"
-  weight = 50
+#[[main]]
+#  name = "Code of Conduct"
+#  url = "#code_of_conduct"
+#  weight = 50
 
 [[main]]
-  name = "People"
+  name = "Lecturers"
   url = "#people"
   weight = 60
   
@@ -38,14 +38,6 @@
   url = "resources"
   weight = 70
   
-[[main]]
-  pre = "<i class=\"fab fa-github fa-lg\"></i>"
-  name = ""
-  url = "https://github.com/atsyplenkov/megapolis"
-  weight = 80
-  
-
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
