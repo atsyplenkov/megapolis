@@ -25,4 +25,10 @@ subtitle = "All workshop sessions will take place live via Zoom."
   icon_pack = "fab"
   name = "<a href='https://www.youtube.com/'>Yotube channel</a>"
   description = "Where lectures will be stored"
+  
+[[feature]]
+  icon = "file-powerpoint"
+  icon_pack = "fas"
+  name = "Presentations"
+  description = "Will be loaded at the website after the school"
 +++
