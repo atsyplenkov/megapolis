@@ -21,12 +21,11 @@ user_groups:
 ---
 
 # Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts
-## Перенос загрязняющих веществ в речных системах: мониторинг антропогенного воздействия
 
-<br>
-
-Welcome to the 1st Young Scientists School hosted by the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University. If you have any questions or concerns, please contact [Dr. Sergey Chalov](https://www.researchgate.net/profile/Sergey_Chalov2) at [hydroserg@mail.ru](mailto:hydroserg@mail.ru).
+School for Young Scientists "Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts" will be hosted by the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University on 26-27 November 2020. It will be based on extensive online lecture of leading experts in the field of water and sediment quality, environmental monitoring and assessment for rivers, applied hydrgeochemestry. See the full topic list [here](/topics).
 
 This website contains all of the details and materials for the school, along with resources for further learning and practice. The materials shared here are free and open source and may be shared and adapted under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).
 
-*Школа молодых ученых проводится при поддержке гранта РНФ "Технология оценки экологического состояния Московского мегаполиса на основе анализа химического состава микрочастиц в системе «атмосфера–снег–дорожная пыль–почвы–поверхностные воды» (Мегаполис)"*
+The School is organised with the financial support from the Russian Science Foundation (grant No 19-77-30004).
+
+Expected audience: bachelor, master and PhD students, young scientists in hydrogeochemestry, ecology, hydrology and other areas.
