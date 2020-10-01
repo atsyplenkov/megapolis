@@ -35,9 +35,8 @@ We will use the same Zoom link for each day of the bootcamp, and you will receiv
 
 ***
 
-<br> 
-
-
+- Exceedance of modern back sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Dr. Adrian Collins](/authors/adrian/)*)
+- Sediment sources, sinks and human impacts on large south American rivers (*by [Dr. Edgardo Latrubesse](/authors/latrubesse/)*)
 - Regional problems of river pollution and sedimentation
 - Contaminants transport by river sediments 
 - The influence of global climate change on the environmental fate of river anthropogenic pollution
@@ -45,4 +44,3 @@ We will use the same Zoom link for each day of the bootcamp, and you will receiv
 - Impact of mining activities on the surface water quality
 - Material flow analysis: Consideration of urban system inputs
 - Environmental anthropogenic impact assessment for rivers
-
