@@ -22,9 +22,10 @@ draft: false
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+bibliography: references.bib
 ---
 
-:::clock
+::: {.clock}
 As we are forced to run the school online this year due to COVID-19, there are a few things we'd like you to do before we get started to make things run as smoothly as possible.
 
 If possible, please make sure you have a [Zoom account](zoom.us) set up through the same E-mail address you used in the registration form *before* the first session on Thursday 11/26. Thank you!
@@ -32,15 +33,14 @@ If possible, please make sure you have a [Zoom account](zoom.us) set up through 
 We will use the same Zoom link for each day of the bootcamp, and you will receive the link via email and slack.
 :::
 
+------------------------------------------------------------------------
 
-***
-
-- Exceedance of modern back sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Dr. Adrian Collins](/authors/adrian/)*)
-- Sediment sources, sinks and human impacts on large south American rivers (*by [Dr. Edgardo Latrubesse](/authors/latrubesse/)*)
-- Regional problems of river pollution and sedimentation
-- Contaminants transport by river sediments 
-- The influence of global climate change on the environmental fate of river anthropogenic pollution
-- Hydrological and geochemical aspects of soil erosion
-- Impact of mining activities on the surface water quality
-- Material flow analysis: Consideration of urban system inputs
-- Environmental anthropogenic impact assessment for rivers
+-   Exceedance of modern back sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Dr. Adrian Collins](/authors/adrian/)*)
+-   Sediment sources, sinks and human impacts on large south American rivers (*by [Dr. Edgardo Latrubesse](/authors/latrubesse/)*)
+-   Regional problems of river pollution and sedimentation
+-   Contaminants transport by river sediments
+-   The influence of global climate change on the environmental fate of river anthropogenic pollution
+-   Hydrological and geochemical aspects of soil erosion
+-   Impact of mining activities on the surface water quality
+-   Material flow analysis: Consideration of urban system inputs
+-   Environmental anthropogenic impact assessment for rivers
