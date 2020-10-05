@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/42e76605-70f0-46b1-8952-a63173c0f429/deploy-status)](https://app.netlify.com/sites/relaxed-fermi-adbc2d/deploys)
 
-This website contains materials for a 2-day School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the University of Oregon.
+This website contains materials for a 2-day School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University.
 
 The full website is available here: <https://megapolis2020.ru/>
 
