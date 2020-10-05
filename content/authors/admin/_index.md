@@ -10,7 +10,7 @@ role: "Faculty of Geography"
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:hydroserg@mail.ru
+  link: mailto:megapolisschool@gmail.com
 - icon: globe
   icon_pack: fas
   link: http://geogr.msu.ru/

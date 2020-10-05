@@ -5,7 +5,7 @@ bio:
 email: ""
 name: Jeff Nittrouer
 organizations:
-- name: Rice University
+- name: Department Earth, Environmental and Planetary Sciences, Rice University
   url: https://www.rice.edu/
 role: Assistant Professor
 social:
