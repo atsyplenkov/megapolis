@@ -48,3 +48,4 @@ We will use the same Zoom link for each day of the bootcamp, and you will receiv
 -   Sediment sources, sinks and human impacts on large south American rivers (*by [Dr. Edgardo Latrubesse](/authors/latrubesse/)*)
 - Microparticals Geochemistry in Terrestrial and Aquatic Environments (*by [Dr. Nikolay Kasimov](/authors/kasimov/)*)
 - Particle-bound pollution from urban areas: significance, assessment and management (*by [Dr. Björn Helm](/authors/helm/)*)
+- Recent advances and future direction in global fluvial sediment modeling (*by [Dr. Sagy Cohen](/authors/cohen/)*)
