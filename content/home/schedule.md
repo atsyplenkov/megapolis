@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "clock"
   icon_pack = "far"
-  name = "**Registration begins** <br><br> <i class='fa fa-calendar'></i> Monday, 5 Oct. <br>"
+  name = "**Registration begins** <br><br> <i class='fa fa-calendar'></i> Monday, 26 Oct. <br>"
   description = ""
   
 [[feature]]
   icon = "stop-circle"
   icon_pack = "far"
-  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> Monday, 16 Nov. <br> 18:00 CET"
+  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> Monday, 26 Nov. <br> 18:00 CET"
   description = ""
   
 [[feature]]
