@@ -4,6 +4,7 @@ authors:
 bio:
 email: ""
 name: Edgardo Latrubesse
+aff: Federal University of Goiás-Brazil
 organizations:
 - name: Federal University of Goiás-Brazil
   url: https://international.ufg.br

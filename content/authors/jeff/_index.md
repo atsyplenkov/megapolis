@@ -4,6 +4,7 @@ authors:
 bio:
 email: ""
 name: Jeff Nittrouer
+aff: Rice University
 organizations:
 - name: Department Earth, Environmental and Planetary Sciences, Rice University
   url: https://www.rice.edu/

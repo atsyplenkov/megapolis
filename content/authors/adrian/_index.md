@@ -4,6 +4,7 @@ authors:
 bio:
 email: ""
 name: Adrian L. Collins
+aff: Rothamsted Research
 organizations:
 - name: Department of Sustainable Agriculture Sciences, Rothamsted Research 
   url: https://www.rothamsted.ac.uk/
