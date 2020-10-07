@@ -3,7 +3,7 @@ authors:
 - kasimov
 bio:
 email: ""
-aff: Lomonosov Moscow State University
+aff: Lomonosov Moscow State University, Russia <b>:ru:</b>
 name: Nikolay Kasimov
 organizations:
 - name: Faculty of Geography, Lomonosov Moscow State University

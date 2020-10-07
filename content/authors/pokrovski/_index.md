@@ -4,7 +4,7 @@ authors:
 bio:
 email: ""
 name: Oleg Pokrovski
-aff: Université Paul Sabatier
+aff: Université Paul Sabatier, France <b>:fr:</b>
 organizations:
 - name: Geosciences and Environment Toulouse, CNRS, Université Paul Sabatier
   url: https://www.get.omp.eu

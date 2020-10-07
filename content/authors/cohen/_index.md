@@ -4,7 +4,7 @@ authors:
 bio:
 email: ""
 name: Sagy Cohen
-aff: The University of Alabama
+aff: The University of Alabama, United States <b>:us:</b>
 organizations:
 - name: Surface Dynamics Modeling Lab, Department of Geography, The University of Alabama
   url: https://www.ua.edu/
