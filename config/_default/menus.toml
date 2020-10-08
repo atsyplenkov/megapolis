@@ -18,21 +18,21 @@
   url = "#logistics"
   weight = 30
 
-[[main]]
-  name = "Contact"
-  url = "contact"
-  weight = 40
-
-[[main]]
-  name = "Topics"
-  url = "topics"
-  weight = 50
+#[[main]]
+#  name = "Contact"
+#  url = "contact"
+#  weight = 40
 
 [[main]]
   name = "Lecturers"
   url = "#people"
-  weight = 60
+  weight = 50
   
+[[main]]
+  name = "Topics"
+  url = "topics"
+  weight = 60
+
 [[main]]
   name = "Registration"
   url = "register"
