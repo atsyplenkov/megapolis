@@ -49,3 +49,5 @@ We will use the same Zoom link for each day of the bootcamp, and you will receiv
 - Microparticals Geochemistry in Terrestrial and Aquatic Environments (*by [Dr. Nikolay Kasimov](/authors/kasimov/)*)
 - Particle-bound pollution from urban areas: significance, assessment and management (*by [Dr. Björn Helm](/authors/helm/)*)
 - Recent advances and future direction in global fluvial sediment modeling (*by [Dr. Sagy Cohen](/authors/cohen/)*)
+- The downstream impacts of retreating glaciers on water quality and security (*by [Dr. Caroline Clason](/authors/clason/)*)
+- Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements (*by [Dr. Matthias Vanmaercke](/authors/vanmaercke/)*)
