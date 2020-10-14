@@ -24,7 +24,7 @@ social:
   link: https://www.researchgate.net/profile/Caroline_Clason
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=q6N0LVwAAAAJ&hl=th
+  link: https://scholar.google.com/citations?user=q6N0LVwAAAAJ&hl=en
 superuser: true
 user_groups:
 - Lecturers
