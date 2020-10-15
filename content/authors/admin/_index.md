@@ -14,6 +14,9 @@ social:
 - icon: globe
   icon_pack: fas
   link: http://geogr.msu.ru/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/megapolis2020
 superuser: true
 user_groups:
 - Researchers
