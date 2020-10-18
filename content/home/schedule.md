@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "clock"
   icon_pack = "far"
-  name = "**[Registration begins](/register/)**<br><br> <i class='fa fa-calendar'></i> Monday, 19 Oct. <br>"
+  name = "**[Registration begins](/register/)** <br><br> <i class='fa fa-calendar'></i> Monday, 26 Oct. <br>"
   description = ""
   
 [[feature]]
