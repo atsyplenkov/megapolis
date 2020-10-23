@@ -4,7 +4,7 @@ authors:
 bio:
 email: ""
 name: Salomon Kroonenber
-aff: Delft University of Technology, Netherlands <b>:flag-nl:</b>
+aff: Delft University of Technology, Netherlands <b>:netherlands:</b>
 organizations:
 - name: Delft University of Technology
   url: https://www.tudelft.nl/en/
