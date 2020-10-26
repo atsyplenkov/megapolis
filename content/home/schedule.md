@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "stop-circle"
   icon_pack = "far"
-  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> Thursday, 26 Nov. <br> 10:00 CET"
+  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> , 25 Nov. <br> 10:00 CET"
   description = ""
   
 [[feature]]
   icon = "laptop"
   icon_pack = "fas"
-  name = "**Young scientists school** <br><br> <i class='fa fa-calendar'></i> Thursday, 26 Nov. - <br> Friday, 27 Nov."
+  name = "**Young scientists school** <br><br> <i class='fa fa-calendar'></i> Wednesday, 25 Nov. - <br> Friday, 27 Nov."
   description = "<a target='_blank' href='https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHVidmEwNjkzdGVqZmh1MGc5ajV0cXZucDMgYXRzeXBsZW5rb3ZAbQ&amp;tmsrc=atsyplenkov%40gmail.com'><img border='0' style='margin-left:auto; margin-right:auto;display:block;' src='https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif' ></a>"
 
 +++
