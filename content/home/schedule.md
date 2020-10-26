@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "stop-circle"
   icon_pack = "far"
-  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> , 25 Nov. <br> 10:00 CET"
+  name = "**Registration deadline** <br><br> <i class='fa fa-calendar'></i> Wednesday, 25 Nov. <br> 10:00 CET"
   description = ""
   
 [[feature]]
