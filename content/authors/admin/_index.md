@@ -25,7 +25,7 @@ user_groups:
 
 # Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts
 
-School for Young Scientists "Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts" will be hosted by the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University on 26-27 November 2020. It will be based on extensive online lectures given by leading experts in the field of water and sediment quality, environmental monitoring and applied hydrgeochemestry. See the full topic list [here](/topics).
+School for Young Scientists "Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts" will be hosted by the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University on 25-27 November 2020. It will be based on extensive online lectures given by leading experts in the field of water and sediment quality, environmental monitoring and applied hydrgeochemestry. See the full topic list [here](/topics).
 
 This website contains all of the details and materials for the school, along with resources for further learning and practice. The materials shared here are free and open source and may be shared and adapted under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).
 
