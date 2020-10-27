@@ -4,6 +4,7 @@ authors:
 bio:
 email: ""
 name: Daniel Karthe
+aff: GMIT, Germany <b>:de:</b>
 organizations:
 - name: German-Mongolian Institute for Resources and Technology 
   url: http://www.gmit.edu.mn/eng/
