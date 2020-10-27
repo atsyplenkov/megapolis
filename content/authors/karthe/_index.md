@@ -1,6 +1,6 @@
 ---
 authors:
-- kharte
+- karthe
 bio:
 email: ""
 name: Daniel Karthe
