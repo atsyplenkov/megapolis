@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Logistics"
-subtitle = "All workshop sessions will take place live via Zoom."
+subtitle = "All lectures will be given in Zoom and streamed in Youtube"
 
 # Showcase personal skills or business features.
 # 
@@ -18,13 +18,13 @@ subtitle = "All workshop sessions will take place live via Zoom."
   icon = "video"
   icon_pack = "fas"
   name = "<a href='https://zoom.us/'>Zoom meeting</a>"
-  description = "Where a live lectures will be given"
+  description = "Where a live lectures will be given. Only Host and Speakers access"
   
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
   name = "<a href='https://www.youtube.com/'>Yotube channel</a>"
-  description = "Where lectures will be stored"
+  description = "Where you can watch the lectures and ask questions. Public access"
   
 [[feature]]
   icon = "file-powerpoint"
