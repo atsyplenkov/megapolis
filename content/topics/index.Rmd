@@ -53,3 +53,4 @@ We will use the same Zoom link for each day of the bootcamp, and you will receiv
 - Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements (*by [Dr. Matthias Vanmaercke](/authors/vanmaercke/)*)
 - The death of Western Europe's largest river Eridanos (and its recent resurrection) (*by [Dr. Salomon Kroonenberg](/authors/salomon/)*)
 - Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective (*by [Dr. Daniel Karthe](/authors/karthe/)*)
+- Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces (*by [Dr. Jeff Nittrouer](/authors/jeff/)*)
