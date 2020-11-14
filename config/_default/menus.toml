@@ -9,14 +9,15 @@
   weight = 10
   
 [[main]]
-  name = "Key dates"
-  url = "#schedule"
+  name = "Logistics"
+  url = "#logistics"
   weight = 20
 
 [[main]]
-  name = "Logistics"
-  url = "#logistics"
+  name = "Schedule"
+  url = "#timetable"
   weight = 30
+
 
 #[[main]]
 #  name = "Contact"

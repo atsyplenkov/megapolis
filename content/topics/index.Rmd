@@ -34,7 +34,7 @@ projects: []
 
 # Lectures
 
--   Exceedance of modern back sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Dr. Adrian Collins](/authors/adrian/)*)
+-   Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Dr. Adrian Collins](/authors/adrian/)*)
 -   Sediment sources, sinks and human impacts on large south American rivers (*by [Dr. Edgardo Latrubesse](/authors/latrubesse/)*)
 - Microparticals Geochemistry in Terrestrial and Aquatic Environments (*by [Dr. Nikolay Kasimov](/authors/kasimov/)*)
 - Particle-bound pollution from urban areas: significance, assessment and management (*by [Dr. Björn Helm](/authors/helm/)*)
