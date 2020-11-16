@@ -10,7 +10,7 @@ subtitle = "**Moscow Time** <br> <i class='fa fa-clock'></i> 11:00 MSK = 9:00 CE
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "timetable"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -74,8 +74,8 @@ subtitle = "**Moscow Time** <br> <i class='fa fa-clock'></i> 11:00 MSK = 9:00 CE
   
 [advanced]
  # Custom CSS. 
- css_style = ""
+ #css_style = ""
  
  # CSS class.
- css_class = ""
+ #css_class = ""
 +++
