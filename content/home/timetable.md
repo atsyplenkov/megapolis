@@ -5,15 +5,15 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Academic Template"
-subtitle = ""
+title = "Schedule"
+subtitle = '<a href="https://raw.githubusercontent.com/atsyplenkov/megapolis/master/static/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Moscow time <br> 11:00 MSK = 3:00 CDT = 9:00 CET'
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -48,10 +48,22 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
+| 25th November |||Youtube link|
+|----------|:-------------:|-------------:|------:|
+| 10:45-11:00 |  **Dr. Sergey Chalov**  |  Opening ceremony||
+| 11:00-12:00 |  **[Prof. Nikolay Kasimov](/authors/kasimov/)**  |  Microparticles Geochemistry in Terrestrial and Aquatic Environments||
+| 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management||
+| 18:00-18:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements||
+| **26th November** |
+| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|
+| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|
+| 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|
+| 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|
+| **27th November** |
+| 14:00-14:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|
+| 15:00-15:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|
+| 17:00-17:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|
+| 18:00-18:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|
