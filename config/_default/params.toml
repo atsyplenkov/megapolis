@@ -194,6 +194,8 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+show_related = {docs = false, page = false, post = false, project = false, publication = false, talk = false}
+
 ############################
 ## Comments
 ############################
