@@ -4,11 +4,11 @@ authors:
 bio:
 email: ""
 name: Daniel Karthe
-aff: GMIT, Germany <b>:de:</b>
+aff: United Nations University, Dresden, Germany <b>:de:</b>
 organizations:
-- name: German-Mongolian Institute for Resources and Technology 
-  url: http://www.gmit.edu.mn/eng/
-role: Vice-Rector for Research / Professor of Environmental Engineering
+- name: United Nations University, Dresden, Germany 
+  url: https://flores.unu.edu/en/
+role: Head of Research Programme – Resource Nexus for Regions in Transformation
 social:
 - icon: envelope
   icon_pack: fas
