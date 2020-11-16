@@ -65,5 +65,5 @@ subtitle = '<a href="https://raw.githubusercontent.com/atsyplenkov/megapolis/mas
 | **27th November** |
 | 14:00-14:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|
 | 15:00-15:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|
-| 17:00-17:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|
-| 18:00-18:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|
+| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|
+| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|
