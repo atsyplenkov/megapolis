@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = "**Moscow Time** <br> <i class='fa fa-clock'></i> 11:00 MSK = 9:00 CET = 03:00 CDT <br> **[Download](static/slides/MEGAPOLIS_SCHEDULE.pdf)** "
+subtitle = "**Moscow Time** <br> <i class='fa fa-clock'></i> 11:00 MSK = 9:00 CET = 03:00 CDT <br> **[Download](https://raw.githubusercontent.com/atsyplenkov/megapolis/master/static/slides/MEGAPOLIS_SCHEDULE.pdf)** "
 
 [content]
   # Page type to display. E.g. project.
