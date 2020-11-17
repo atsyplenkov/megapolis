@@ -31,5 +31,7 @@ This website contains all of the details and materials for the school, along wit
 
 Expected audience: bachelor, master and PhD students, young scientists in hydrogeochemestry, ecology, hydrology and other areas.
 
+All registered participants of the school will get a certificate of the attendance (upon request). Please note the LOC will follow the presence of the participants during lectures. We reserve the right to reject the certificate delivery in case of "no show".
+
 
 *The School is organized with the financial support from the Russian Science Foundation (grant No 19-77-30004).*

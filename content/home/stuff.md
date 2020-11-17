@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Coorgonisers"
-subtitle = 'Local Organising Comittee: <div><ul class="columns" data-columns="2" style = "color:#B2B2B2;list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;"><li>Prof. Nikolai Kasimov (LOC chair)</li><li>Dr. Sergey Chalov (LOC General secretary)</li><li>Prof. Natalia Kosheleva</li><li>Dr. Alexander Medvedev</li><li>Dr. Sergei Sokratov</li><li>Svetlana Pligina</li><li>Dr. Anatoly Tsyplenkov</li><li>Pavel Umnov</li><li>Mariya Troshko</li></ul></div>'
+title = "Co-organizers"
+subtitle = 'The School is organized with the financial support from the Russian Science Foundation (grant No 19-77-30004)'
 
 # Showcase personal skills or business features.
 # 
@@ -35,3 +35,4 @@ subtitle = 'Local Organising Comittee: <div><ul class="columns" data-columns="2"
   description = ' <img src="https://www.apfm.info/wp-content/uploads/IAHS.png" style="width:70%;height:70%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;"> '
    
 +++
+
