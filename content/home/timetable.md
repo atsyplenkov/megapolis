@@ -53,7 +53,7 @@ subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopen
 
 | 25th November |||Youtube link|
 |----------|:-------------:|-------------:|------:|
-| 17:45-18:00 |  **Dr. Sergey Chalov**  |  Opening ceremony||
+| 17:45-18:00 |    |  Opening ceremony||
 | 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management||
 | 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques||
 | **26th November** |
