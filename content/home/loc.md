@@ -52,4 +52,4 @@ subtitle = ''
 +++
 
 ## Local Organising Comittee:
-<div><ul class="columns" data-columns="2" style = "list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;"><li>Prof. Nikolai Kasimov (LOC chair)</li><li>Dr. Sergey Chalov (LOC General secretary)</li><li>Prof. Natalia Kosheleva</li><li>Dr. Alexander Medvedev</li><li>Dr. Sergei Sokratov</li><li>Svetlana Pligina</li><li>Dr. Anatoly Tsyplenkov</li><li>Pavel Umnov</li><li>Mariya Troshko</li></ul></div>
+<div><ul class="columns" data-columns="3" style = "list-style-type:disc;-webkit-columns:3;-moz-columns: 3;columns: 3;list-style-position: inside;"><li>Prof. Nikolai Kasimov (LOC chair)</li><li>Dr. Sergey Chalov (LOC General secretary)</li><li>Prof. Natalia Kosheleva</li><li>Dr. Alexander Medvedev</li><li>Dr. Sergei Sokratov</li><li>Svetlana Pligina</li><li>Dr. Anatoly Tsyplenkov</li><li>Pavel Umnov</li><li>Mariya Troshko</li><li>Viktor Lomov</li><li>Ekaterina Sharapova</li><li>Alena Kazachuk</li><li>Anastasiya Makarova</li></ul></div>

@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = '<a href="https://raw.githubusercontent.com/atsyplenkov/megapolis/master/static/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Moscow time <br> 11:00 MSK = 3:00 CDT = 9:00 CET'
+subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Moscow time <br> 11:00 MSK = 3:00 CDT = 9:00 CET'
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -53,13 +53,13 @@ subtitle = '<a href="https://raw.githubusercontent.com/atsyplenkov/megapolis/mas
 
 | 25th November |||Youtube link|
 |----------|:-------------:|-------------:|------:|
-| 10:45-11:00 |  **Dr. Sergey Chalov**  |  Opening ceremony||
-| 11:00-12:00 |  **[Prof. Nikolay Kasimov](/authors/kasimov/)**  |  Microparticles Geochemistry in Terrestrial and Aquatic Environments||
+| 17:45-18:00 |  **Dr. Sergey Chalov**  |  Opening ceremony||
 | 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management||
-| 18:00-18:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements||
+| 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques||
 | **26th November** |
 | 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|
 | 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|
+| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements||
 | 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|
 | 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|
 | **27th November** |
