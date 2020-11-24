@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Logistics"
-subtitle = "All lectures will be given in Zoom and streamed in Youtube"
+subtitle = "Kindly ask your question using Comments box in Youtube to write your question. The Chair/Host will read out your question to Speakers during available time after the lecture. Subscribe to the <a href='https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg'>Yotube channel</a> and don't miss the lectures!"
 
 # Showcase personal skills or business features.
 # 
@@ -17,13 +17,13 @@ subtitle = "All lectures will be given in Zoom and streamed in Youtube"
 [[feature]]
   icon = "video"
   icon_pack = "fas"
-  name = "<a href='https://zoom.us/'>Zoom meeting</a>"
+  name = "Zoom meeting"
   description = "Where a live lectures will be given. Only Host and Speakers access"
   
 [[feature]]
   icon = "youtube"
   icon_pack = "fab"
-  name = "<a href='https://www.youtube.com/'>Yotube channel</a>"
+  name = "<a href='https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg'>Yotube channel</a>"
   description = "Where you can watch the lectures and ask questions. Public access"
   
 [[feature]]
