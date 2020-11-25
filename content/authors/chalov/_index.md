@@ -8,7 +8,7 @@ name: Sergey Chalov
 organizations:
 - name: Faculty of Geography, Lomonosov Moscow State University
   url: http://geogr.msu.ru/
-role: Professor
+role: Associate Professor
 social:
 - icon: envelope
   icon_pack: fas
