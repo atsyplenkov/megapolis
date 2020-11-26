@@ -57,9 +57,9 @@ subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopen
 | 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management|[Watch](https://youtu.be/VBDNy8Fr2rU)|
 | 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques|[Watch](https://youtu.be/VBDNy8Fr2rU)|
 | **26th November** |
-| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|[Join](https://youtu.be/3az84YoclNE)|
-| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|[Join](https://youtu.be/3az84YoclNE)|
-| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements||
+| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|[Watch](https://youtu.be/3az84YoclNE)|
+| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|[Watch](https://youtu.be/3az84YoclNE)|
+| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements|[Join](https://youtu.be/Thbs_JwfdKQ)|
 | 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|
 | 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|
 | **27th November** |
