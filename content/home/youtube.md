@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Day 2"
+title = "Day 3"
 subtitle = ''
 
 [design]
@@ -51,4 +51,4 @@ subtitle = ''
 
 +++
 
-{{< youtube Thbs_JwfdKQ >}}
+The 3rd day session will start at 16:00 MSK with a lecture «Sediment sources, sinks and human impacts on large south American rivers» by Prof. Edgardo Latrubesse
