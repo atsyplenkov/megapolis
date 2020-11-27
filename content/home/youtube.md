@@ -51,4 +51,4 @@ subtitle = ''
 
 +++
 
-The 3rd day session will start at 16:00 MSK with a lecture «Sediment sources, sinks and human impacts on large south American rivers» by Prof. Edgardo Latrubesse
+{{< youtube X8-LLSbug58 >}}

@@ -63,7 +63,7 @@ subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopen
 | 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|[Watch](https://youtu.be/Thbs_JwfdKQ)|
 | 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|[Watch](https://youtu.be/Thbs_JwfdKQ)|
 | **27th November** |
-| 16:00-16:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|
-| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|
-| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|
-| 19:00-19:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|
+| 16:00-16:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|[Watch](https://youtu.be/X8-LLSbug58)|
+| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|[Join](https://youtu.be/X8-LLSbug58)|
+| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|[Join](https://youtu.be/X8-LLSbug58)|
+| 19:00-19:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|[Join](https://youtu.be/X8-LLSbug58)|
