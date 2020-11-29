@@ -17,6 +17,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/megapolis2020
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg
 superuser: true
 user_groups:
 - Researchers
