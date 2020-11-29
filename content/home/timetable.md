@@ -54,16 +54,16 @@ subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopen
 | 25th November |||Youtube link|
 |----------|:-------------:|-------------:|------:|
 | 17:45-18:00 |    |  Opening ceremony||
-| 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management|[Watch](https://youtu.be/VBDNy8Fr2rU)|
-| 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques|[Watch](https://youtu.be/VBDNy8Fr2rU)|
+| 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management|[Watch](https://youtu.be/VBDNy8Fr2rU?t=792)|
+| 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques|[Watch](https://youtu.be/VBDNy8Fr2rU?t=4283)|
 | **26th November** |
-| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|[Watch](https://youtu.be/3az84YoclNE)|
-| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|[Watch](https://youtu.be/3az84YoclNE)|
-| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements|[Watch](https://youtu.be/Thbs_JwfdKQ)|
-| 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|[Watch](https://youtu.be/Thbs_JwfdKQ)|
-| 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|[Watch](https://youtu.be/Thbs_JwfdKQ)|
+| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|[Watch](https://youtu.be/3az84YoclNE?t=288)|
+| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|[Watch](https://youtu.be/3az84YoclNE?t=3741)|
+| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements|[Watch](https://youtu.be/Thbs_JwfdKQ?t=401)|
+| 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|[Watch](https://youtu.be/Thbs_JwfdKQ?t=3846)|
+| 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|[Watch](https://youtu.be/Thbs_JwfdKQ?t=7494)|
 | **27th November** |
-| 16:00-16:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|[Watch](https://youtu.be/X8-LLSbug58)|
-| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|[Join](https://youtu.be/X8-LLSbug58)|
-| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|[Join](https://youtu.be/X8-LLSbug58)|
-| 19:00-19:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|[Join](https://youtu.be/X8-LLSbug58)|
+| 16:00-16:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|[Watch](https://youtu.be/X8-LLSbug58?t=369)|
+| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|[Watch](https://youtu.be/X8-LLSbug58?t=3905)|
+| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|[Watch](https://youtu.be/X8-LLSbug58?t=7601)|
+| 19:00-19:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|[Watch](https://youtu.be/X8-LLSbug58?t=11160)|

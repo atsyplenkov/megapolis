@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Day 3"
+title = "That's all!"
 subtitle = ''
 
 [design]
@@ -51,4 +51,8 @@ subtitle = ''
 
 +++
 
-{{< youtube X8-LLSbug58 >}}
+Dear participants of MEGAPOLIS 2020 school for young scientists!
+
+We are happy that all of you share this experience of online school for young scientists with us! Hopefully you spend this time with pleasure and learn something new, as we are too!
+
+If you want, you could also send 2-3 sentences of your feedback about the school: your personal impressions from format, lectures and maybe some personal wishes for future young scientists schools. We will publish it on MEGAPOLIS2020 website. Just write us a email megapolisschool@gmail.com.
