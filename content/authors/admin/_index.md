@@ -38,3 +38,10 @@ All registered participants of the school will get a certificate of the attendan
 
 
 *The School is organized with the financial support from the Russian Science Foundation (grant No 19-77-30004).*
+
+
+## Feedback
+Organizing Committee expresses gratitude for the lecturers who participated in the event. We were very proud to introduce to young scientists of Russia leading experts in the field of water quality and river sedimentation. Thank you, participants, for intensive discussions after lectures, questions and feedback.We are happy that with almost 400 registered participants, the school got significant interest both in Russia and abroad. Also, we see advantages of a new type of online format, but hope that the next events will take place in traditional _in-situ_ (or hybrid) format.
+
+*On behalf of Organizing Committee* <br>
+_**Dr. Sergey Chalov**_

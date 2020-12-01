@@ -1,58 +1,72 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+widget = "slider"
+weight = 20
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+font_size = "XS"
 
-title = "That's all!"
-subtitle = ''
-
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+interval = 7000
+height = "300px"
 
 [design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  #gradient_start = "DarkGreen"
-  #gradient_end = "ForestGreen"
-  
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
-  # Text color (true=light or false=dark).
+  #gradient_start = "#0000F9"
+  #gradient_end = "#86007D"
   text_color_light = false
+  tex_size = "XS"
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+[[item]]
+  title = " <h1 style='font-size:14'>Md. Humayain Kabir</h1> "
+  content = "<p style='font-size:12'> MEGAPOLIS 2020 School for Young Scientists was really great. It presents the complete picture of problems facing most of the large/small river basins in the world. I've learn a lot for this school. I will be happy to work with you in near future. </p>"
+  align = "center"
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+[[item]]
+  title = "<h1 style='font-size:14'>Antonella Nucera</h1>"
+  content = "<p style='font-size:12'>Thanks for the brilliant event.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Pankaj Kumar</h1>"
+  content = "<p style='font-size:12'>It was awesome experiance to join the event.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Adeyemi O. Olusola</h1>"
+  content = "<p style='font-size:12'>I am grateful to the organizers for accepting my registration to attend MEGAPOLIS2020. I enjoyed the discussions and made some jottings. I was looking forward to the discussion on tropical rivers by Edgardo and I was impressed.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Dr. Pintu Das</h1>"
+  content = "<p style='font-size:12'>It has been very informative and I learned a lot. Awesome presentation! Thanks & Regards.</p>"  
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Ikpe Udom</h1>"
+  content = "<p style='font-size:12'>Thank you for the opportunity to attend the MEGAPOLIS 2020 school for young scientists. The topics were well researched and relevant and the presentations excellent. I benefitted greatly and hope to mobilize our research group members to attend next time it comes up.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Dr. Azuka C.V.</h1>"
+  content = "<p style='font-size:12'>I will like to start by appreciating the organizers of this course for young scientists. The course has enabled me to learn new things that will reshape and refocus my career as a scientist in the future. I am really grateful participating in this event.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Dr. M. Imran Azam</h1>"
+  content = "<p style='font-size:12'>Thank you very much for arranging such wondering workshop. The formate and content was perfect, all experts presented and share their research with new ideas.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Suvendu Roy</h1>"
+  content = "<p style='font-size:12'>Overall,  it was great experience to listening every experts. Thanks for organizing such a great program.</p>"
+  align = "center"
+
+[[item]]
+  title = "<h1 style='font-size:14'>Guseva Olga</h1>"
+  content = "<p style='font-size:16px'>I'd want to say thanks a lot for organization of the event. I listened to all repots with great interest. It was not only very informative but also extremely useful for studying English (for me at least). I wish you to continue your great work and my suggestion for further school: geochemical issues of studying landscapes and urban territories.</p>"
+  align = "center"
+  
+[[item]]
+  title = "<h1 style='font-size:14'>Emily Kemp</h1>"
+  content = "<p style='font-size:16px'>The event was insightful, professionally organized and useful. The option to watch sessions in different time zones and rewind if necessary was a great idea.I found the lectures interesting and the lecturers approachable and helpful. While I enjoyed all the sessions, my favorites were lectures by Prof. Salomon Kroonenber and Dr Caroline Clason. I hope to have the opportunity to attend more of such seminars.</p>"
+  align = "center"
 
 +++
 
-Dear participants of MEGAPOLIS 2020 school for young scientists!
-
-We are happy that all of you share this experience of online school for young scientists with us! Hopefully you spend this time with pleasure and learn something new, as we are too!
-
-If you want, you could also send 2-3 sentences of your feedback about the school: your personal impressions from format, lectures and maybe some personal wishes for future young scientists schools. We will publish it on MEGAPOLIS2020 website. Just write us a email megapolisschool@gmail.com.
