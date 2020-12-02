@@ -5,7 +5,7 @@ weight = 20
 font_size = "XS"
 
 interval = 7000
-height = "300px"
+height = "400px"
 
 [design.background]
   #gradient_start = "#0000F9"
