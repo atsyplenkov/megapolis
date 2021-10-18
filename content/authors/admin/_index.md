@@ -5,8 +5,9 @@ bio: ""
 email: ""
 name: null
 organizations:
-- name: "Lomonosov Moscow State University"
-role: "Faculty of Geography"
+- name: "Dates: 15 Nov — 3 Dec 2021"
+- name: "Price: Free"
+role: "Reg. deadline: 1 Nov 2021"
 social:
 - icon: envelope
   icon_pack: fas
@@ -14,9 +15,6 @@ social:
 - icon: globe
   icon_pack: fas
   link: http://geogr.msu.ru/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/megapolis2020
 - icon: youtube
   icon_pack: fab
   link: https://www.youtube.com/channel/UCCXZNFdglOzGczmnAisb1vg
@@ -26,9 +24,15 @@ user_groups:
 - Visitors
 ---
 
-# Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts
+## Multi-Scales and -Processes Integrated Modelling, Observations and Assessment for Environmental Applications
+### Online Young Scientist School (YSS) MEGAPOLIS 2021
 
-School for Young Scientists "Pollutant and sediment mobility in river systems: monitoring studies to identify human impacts" was hosted by the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University on 25-27 November 2020. It was based on extensive online lectures given by leading experts in the field of water and sediment quality, environmental monitoring and applied hydrogeochemestry. 
+This YSS will introduce young generation of researchers to special topics in atmospheric and environmental sciences, Earth system modelling approaches and applications, especially
+considering transport and fate of small (micro) particles. During the school, participants will learn about the current progress and challenges in Earth system research; meteorological, hydrological and atmospheric composition modelling and observations (including ground-based and remote-sensing); and modern technologies for environmental studies and assessments (including health impacts). The programme will consist of theoretical lectures and practical exercises (to be accomplished by students as small-scale research projects ending with presentation of the project results).
+
+This School was originally planned in August 2020 (Moscow, Russia) as part of the Academy of Finland (AoF) “ClimEco” & Russian Science Foundation (RSF) “MegaPolis” projects, but postponed due to COVID-19 pandemic. 
+    Professor Sergej Zilitinkevich (1936-2021) was one the key organizers of the School, promoting for research community, and especially, for the younger generation, the importance of atmospheric and environmental sciences, approaches in the Earth system modelling and their applications.
+    This School is organized in the Memory of Professor Sergej Zilitinkevich.
 
 This website contains all of the details and materials for the school, along with resources for further learning and practice. The materials shared here are free and open source and may be shared and adapted under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).
 
@@ -38,10 +42,3 @@ All registered participants of the school will get a certificate of the attendan
 
 
 *The School is organized with the financial support from the Russian Science Foundation (grant No 19-77-30004).*
-
-
-## Feedback
-Organizing Committee expresses gratitude for the lecturers who participated in the event. We were very proud to introduce to young scientists of Russia leading experts in the field of water quality and river sedimentation. Thank you, participants, for intensive discussions after lectures, questions and feedback.We are happy that with almost 400 registered participants, the school got significant interest both in Russia and abroad. Also, we see advantages of a new type of online format, but hope that the next events will take place in traditional _in-situ_ (or hybrid) format.
-
-*On behalf of Organizing Committee* <br>
-_**Dr. Sergey Chalov**_

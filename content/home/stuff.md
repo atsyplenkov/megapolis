@@ -2,10 +2,10 @@
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Co-organizers"
+title = "Organizers and Support"
 subtitle = 'The School is organized with the financial support from the Russian Science Foundation (grant No 19-77-30004)'
 
 # Showcase personal skills or business features.

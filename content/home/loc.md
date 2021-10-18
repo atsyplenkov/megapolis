@@ -51,5 +51,18 @@ subtitle = ''
 
 +++
 
-## Local Organising Comittee:
-<div><ul class="columns" data-columns="3" style = "list-style-type:disc;-webkit-columns:3;-moz-columns: 3;columns: 3;list-style-position: inside;"><li>Prof. Nikolai Kasimov (LOC chair)</li><li>Dr. Sergey Chalov (LOC General secretary)</li><li>Prof. Natalia Kosheleva</li><li>Dr. Alexander Medvedev</li><li>Dr. Sergei Sokratov</li><li>Svetlana Pligina</li><li>Dr. Anatoly Tsyplenkov</li><li>Pavel Umnov</li><li>Mariya Troshko</li><li>Viktor Lomov</li><li>Ekaterina Sharapova</li><li>Alena Kazachuk</li><li>Anastasiya Makarova</li></ul></div>
+## Organising Comittee:
+#### Institute for Atmospheric and Earth System Research, University of Helsinki, Finland
+<div><ul class="columns" data-columns="2" style = "list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;"><li>Markku Kulmala</li><li>Sergej Zilitinkevich</li><li>Jaana Bäck</li><li>Hanna Lappalainen</li><li>Alexander Mahura</li></ul></div>
+
+#### Faculty of Geography, Moscow State University, Russia
+<div><ul class="columns" data-columns="2" style = "list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;"><li>Nikolay Kasimov</li><li>Sergey Chalov</li><li>Pavel Konstantinov</li><li>Natalia Frolova</li><li>Anatoly Tsyplenkov</li></ul></div>
+
+#### University of Tyumen, Tyumen, Russia
+<div><ul class="columns" data-columns="2" style = "list-style-type:disc;-webkit-columns:2;-moz-columns: 2;columns: 2;list-style-position: inside;"><li>Vladimir Melnikov</li><li>Andrei Tolstikov</li><li>Dmitrii Gabyshev</li></ul></div>
+
+#### World Meteorological Organization, Geneva, Switzerland
+<div><ul class="columns" data-columns="1" style = "list-style-type:disc;-webkit-columns:1;-moz-columns: 1;columns: 1;list-style-position: inside;"><li>Alexander Baklanov</li></ul></div>
+
+
+

@@ -1,6 +1,7 @@
 +++
 widget = "slider"
 weight = 20
+active = false
 
 font_size = "XS"
 

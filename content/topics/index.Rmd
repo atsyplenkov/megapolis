@@ -24,24 +24,16 @@ draft: false
 projects: []
 ---
 
--   Regional problems of river pollution and sedimentation
--   Contaminants transport by river sediments
--   The influence of global climate change on the environmental fate of river anthropogenic pollution
--   Hydrological and geochemical aspects of soil erosion
--   Impact of mining activities on the surface water quality
--   Material flow analysis: Consideration of urban system inputs
--   Environmental anthropogenic impact assessment for rivers
-
-# Lectures
-
--   Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management (*by [Prof. Adrian Collins](/authors/adrian/)*)
--   Sediment sources, sinks and human impacts on large south American rivers (*by [Prof. Edgardo Latrubesse](/authors/latrubesse/)*)
-- Microparticals Geochemistry in Terrestrial and Aquatic Environments (*by [Prof. Nikolay Kasimov](/authors/kasimov/)*)
-- Particle-bound pollution from urban areas: significance, assessment and management (*by [Dr. Björn Helm](/authors/helm/)*)
-- Recent advances and future direction in global fluvial sediment modeling (*by [Dr. Sagy Cohen](/authors/cohen/)*)
-- The downstream impacts of retreating glaciers on water quality and security (*by [Dr. Caroline Clason](/authors/clason/)*)
-- Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements (*by [Dr. Matthias Vanmaercke](/authors/vanmaercke/)*)
-- The death of Western Europe's largest river Eridanos (and its recent resurrection) (*by [Prof. Salomon Kroonenberg](/authors/salomon/)*) 
-- Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective (*by [Prof. Daniel Karthe](/authors/karthe/)*)
-- Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces (*by [Prof. Jeff Nittrouer](/authors/jeff/)*)
-- Integrating monitoring and water quality modelling to assess human impacts (*by [Prof. Martina Flörke](/authors/martina/)*)
+   • **Block 1** – Current progress & challenges in Earth system research (atmosphere-hydrosphere- biosphere);
+   
+   • **Block 2** – Modelling (Earth system, numerical weather prediction, atmospheric chemical transport, seamless online integrated, atmospheric boundary layer) and specific challenges;
+   
+   • **Block 3** – Chemistry (gas, liquid) and aerosols (properties, dynamics, chemistry, micro-physics, interactions);
+   
+   • **Block 4** – Emissions, data assimilation, models evaluation;
+   
+   • **Block 5** – Ground-based and remote sensing observations; EU and Russian strategies for hydro-meteorological, ecosystems and atmospheric composition monitoring; SMEAR stations; measurements for atmospheric composition, ecosystems, meteorological, hydrological, urban scale;
+   
+   • **Block 6** - GIS technologies in environmental sciences; Environmental (land, water, terrestrial ecosystems) and human health assessments.
+   
+   **& Practical Exercises as Small-Scale Research Projects (SSRP)** on selected research topics to be accomplished by groups of students led by teachers
