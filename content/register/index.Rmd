@@ -50,7 +50,7 @@ output:
     <label>Job position: <input type="text" name="position" /></label>   
   </p>
   <p>
-    <label>Affilation: <input type="text" name="affilation" /></label>   
+    <label>Affiliation: <input type="text" name="affiliation" /></label>   
   </p>
   <p>
     <label>Areas of activity: <textarea name="activity"></textarea></label>
