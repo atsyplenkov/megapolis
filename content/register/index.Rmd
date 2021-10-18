@@ -65,6 +65,9 @@ output:
     <label>Motivation letter: <input type="file" name="motto" /></label>
   </p>
   <p>
+    <label>Publication list: <input type="file" name="publ" /></label>
+  </p>
+  <p>
     <button type="submit">Send</button>
   </p>
 </form>
