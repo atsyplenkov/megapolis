@@ -5,11 +5,11 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Moscow time <br> 11:00 MSK = 3:00 CDT = 9:00 CET'
+subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Helsinki time (EET) <br> 11:00 EET = 4:00 CDT = 10:00 CET'
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -51,19 +51,45 @@ subtitle = '<a href="/slides/MEGAPOLIS_SCHEDULE.pdf" target="_blank" rel="noopen
 
 +++ 
 
-| 25th November |||Youtube link|
-|----------|:-------------:|-------------:|------:|
-| 17:45-18:00 |    |  Opening ceremony||
-| 18:00-18:45 |  **[Dr. Björn Helm](/authors/helm/)**  |  Particle-bound pollution from urban areas: significance, assessment and management|[Watch](https://youtu.be/VBDNy8Fr2rU?t=792)|
-| 19:00-19:45 |  **[Dr. Sergey Chalov](/authors/chalov/)**  |  Assessing suspended sediment patterns over large rivers using remote sensing techniques|[Watch](https://youtu.be/VBDNy8Fr2rU?t=4283)|
-| **26th November** |
-| 11:00-11:45 |  **[Prof. Salomon Kroonenberg](/authors/salomon/)**  |  The death of Western Europe's largest river Eridanos (and its recent resurrection)|[Watch](https://youtu.be/3az84YoclNE?t=288)|
-| 12:00-12:45 |  **[Prof. Adrian Collins](/authors/adrian/)**  |  Exceedance of modern background sediment loss to rivers in England and Wales and scope for closing the gap using best management|[Watch](https://youtu.be/3az84YoclNE?t=3741)|
-| 17:00-17:45 |  **[Dr. Matthias Vanmaercke](/authors/vanmaercke/)**  |  Quantifying gully erosion and its impacts on sediment fluxes at regional scales: research needs and recent advancements|[Watch](https://youtu.be/Thbs_JwfdKQ?t=401)|
-| 18:00-18:45 |  **[Dr. Caroline Clason](/authors/clason/)**  |  The downstream impacts of retreating glaciers on water quality and security|[Watch](https://youtu.be/Thbs_JwfdKQ?t=3846)|
-| 19:00-19:45 |  **[Dr. Sagy Cohen](/authors/cohen/)**  |  Recent advances and future direction in global fluvial sediment modeling|[Watch](https://youtu.be/Thbs_JwfdKQ?t=7494)|
-| **27th November** |
-| 16:00-16:45 |  **[Prof. Edgardo Latrubesse](/authors/latrubesse/)**  |  Sediment sources, sinks and human impacts on large south American rivers|[Watch](https://youtu.be/X8-LLSbug58?t=369)|
-| 17:00-17:45 |  **[Prof. Jeff Nittrouer](/authors/jeff/)**  |  Hydrodynamics and sediment transport processes in the lowermost Mississippi River: insights into the role of non-uniform flow for affecting timing and magnitude of material movement, and applications for building deltaic land surfaces|[Watch](https://youtu.be/X8-LLSbug58?t=3905)|
-| 18:00-18:45 |  **[Prof. Daniel Karthe](/authors/karthe/)**  |  Water quality problems in the Mongolian subbasins of the Selenga - a Nexus perspective|[Watch](https://youtu.be/X8-LLSbug58?t=7601)|
-| 19:00-19:45 |  **[Prof. Martina Flörke](/authors/martina/)**  |  Integrating monitoring and water quality modelling to assess human impacts|[Watch](https://youtu.be/X8-LLSbug58?t=11160)|
+| 15th November |||Youtube link|
+|----------|:-------------|-------------:|------:|
+| 09:45-10:00 |    |  Opening ceremony||
+| 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme||
+| 10:45-11:30 |  **Risto Makkonen**  |  Earth System Modelling and specific challenges||
+| 11:30-11:45 ||  *Coffee break*|
+| 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges||
+| 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges||
+| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)**  |  Atmospheric chemical transport modelling and challenges||
+| **16th November** |
+| 10:00-10:45 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)** |  Seamless online integrated modelling and specific challenges||
+| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges||
+| 11:30-11:45 ||  *Coffee break*|
+| 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges||
+| 12:30-13:15 |  **Andrei Skorokhod**  |  Atmospheric gasand liquid phases chemistry||
+| 13:15-14:00 |  **Olga Popovicheva**  |  Aerosol properties, dynamics, chemistry and microphysics||
+| 14:00-15:00 ||  *Lunch*|
+| 14:00-15:00 ||  **Introduction** to Groups’ Research Projects|
+| **17th November** |
+| 10:00-10:45 |  **Natalia Chubarova** |  Aerosol - cloud radiation interactions||
+| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
+| 11:30-11:45 ||  *Coffee break*|
+| 11:45-12:30 |  **Mariusz Pagowski**  |  Chemical and meteorological data assimilation||
+| 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification||
+| 13:15-14:00 |  **Natalia Chubarova**  |  Ground-based observations: basics, approaches, applicability||
+| **18th November** |
+| 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
+| 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)||
+| 11:30-11:45 ||  *Coffee break*|
+| 11:45-12:30 |  **[Jaana Bäck](/authors/back/)**  |  SMEAR ecosystem measurements (Part 2)||
+| 12:30-13:15 |  **[Tuukka Petäjä](/authors/tuukka/)** & **[Jaana Bäck](/authors/back/)**  |  European strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
+| 13:15-14:00 |  **[Sergey Chalov](/authors/chalov/)**  |  Russian strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
+| 14:00-15:00 ||  *Lunch*|
+| 14:00-15:00 ||  **Questions** to Teachers of Groups’ Projects|
+| **19th November** |
+| 10:00-10:45 |  **Pavel Konstantinov** & **Pavel Terskiy** |  Meteorological and hydrological measurements||
+| 10:45-11:30 |  **Pavel Konstantinov** & **Mikhail Varentsov**   |  Urban scale measurements||
+| 11:30-11:45 ||  *Coffee break*|
+| 11:45-12:30 |  **Varvara Mironova**  |  Environmental factors and human health: approaches and assessment||
+| 12:30-13:15 |  **Varvara Mironova** |  Environmental factors and human health: approaches and assessment||
+| 13:15-14:00 |  **Timofey Samsonov**  |  GIS technologies in environmental sciences||
+
