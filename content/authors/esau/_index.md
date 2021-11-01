@@ -1,10 +1,10 @@
 ---
 authors:
-- ezau
+- esau
 bio:
 email: ""
 aff: Nansen Environmental and Remote Sensing Center, Norway <b>:norway:</b>
-name: Igor Ezau
+name: Igor Esau
 organizations:
 - name: Nansen Environmental and Remote Sensing Center
   url: https://en.ilmatieteenlaitos.fi/

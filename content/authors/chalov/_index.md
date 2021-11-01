@@ -13,6 +13,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:hydroserg@mail.ru
+- icon: globe
+  icon_pack: fas
+  link: https://sediment.ru
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Sergey_Chalov2

@@ -55,7 +55,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 |----------|:-------------|-------------:|------:|
 | 09:45-10:00 |    |  Opening ceremony||
 | 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme||
-| 10:45-11:30 |  **Risto Makkonen**  |  Earth System Modelling and specific challenges||
+| 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges||
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges||
 | 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges||
@@ -70,10 +70,10 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 14:00-15:00 ||  *Lunch*|
 | 14:00-15:00 ||  **Introduction** to Groups’ Research Projects|
 | **17th November** |
-| 10:00-10:45 |  **Natalia Chubarova** |  Aerosol - cloud radiation interactions||
+| 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **Mariusz Pagowski**  |  Chemical and meteorological data assimilation||
+| 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation||
 | 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification||
 | 13:15-14:00 |  **Natalia Chubarova**  |  Ground-based observations: basics, approaches, applicability||
 | **18th November** |
