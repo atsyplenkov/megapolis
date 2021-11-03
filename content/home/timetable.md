@@ -51,7 +51,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 
 +++ 
 
-| 15th November |||Youtube link|
+| 15th November |||Comments|
 |----------|:-------------|-------------:|------:|
 | 09:45-10:00 |    |  Opening ceremony||
 | 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme||
@@ -73,8 +73,8 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation||
-| 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification||
+| 11:45-12:30 |  **Mariusz Pagowski**  |  Chemical and meteorological data assimilation|**TBC**|
+| 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification|**TBC**|
 | 13:15-14:00 |  **Natalia Chubarova**  |  Ground-based observations: basics, approaches, applicability||
 | **18th November** |
 | 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
