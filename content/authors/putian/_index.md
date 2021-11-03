@@ -23,3 +23,16 @@ superuser: true
 user_groups:
 - Lecturers
 ---
+
+Putian Zhou is working as a Postdoctoral Researcher (2nd stage) at Institute for Atmospheric and Earth System Research (INAR), University of Helsinki, Finland. His teaching and working experience included
+
+•	16.03.2021 - 05.05.2021: Teaching "Introduction to Earth System Modelling"
+
+•	22.01.2021 - 05.03.2021: Co-teaching "Biosphere-Atmosphere Process Modelling I"
+
+•	Working in the FORCeS (Constrained aerosol forcing for improved climate projections) project, and the topic is implementing newly-developed anthropogenic particle emissions in the Earth system model EC-Earth and analysing its effect on aerosol and cloud forcing.
+
+•	Conducting the simulations and providing the model output datasets for the Aerosols and Chemistry Model Intercomparison Project (AerChemMIP) in CMIP6 as a member of EC-Earth consortium. The AerChemMIP experiments include histSST, piClim-2xDMS, piClim-2xVOC with totally 210 simulation years.
+
+•	Developing and maintaining the 1D chemical transport SOSAA
+
