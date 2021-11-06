@@ -7,7 +7,7 @@ name: null
 organizations:
 - name: "Dates: 15 Nov — 3 Dec 2021"
 - name: "Price: Free"
-role: "Reg. deadline: 5 Nov 2021"
+role: "Registration is closed!"
 social:
 - icon: envelope
   icon_pack: fas

@@ -68,7 +68,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 12:30-13:15 |  **Andrei Skorokhod**  |  Atmospheric gasand liquid phases chemistry||
 | 13:15-14:00 |  **Olga Popovicheva**  |  Aerosol properties, dynamics, chemistry and microphysics||
 | 14:00-15:00 ||  *Lunch*|
-| 14:00-15:00 ||  **Introduction** to Groups’ Research Projects|
+| 15:00-16:00 ||  **Introduction** to Groups’ Research Projects|
 | **17th November** |
 | 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
@@ -84,7 +84,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 12:30-13:15 |  **[Tuukka Petäjä](/authors/tuukka/)** & **[Jaana Bäck](/authors/back/)**  |  European strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
 | 13:15-14:00 |  **[Sergey Chalov](/authors/chalov/)**  |  Russian strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
 | 14:00-15:00 ||  *Lunch*|
-| 14:00-15:00 ||  **Questions** to Teachers of Groups’ Projects|
+| 15:00-16:00 ||  **Questions** to Teachers of Groups’ Projects|
 | **19th November** |
 | 10:00-10:45 |  **Pavel Konstantinov** & **Pavel Terskiy** |  Meteorological and hydrological measurements||
 | 10:45-11:30 |  **Pavel Konstantinov** & **Mikhail Varentsov**   |  Urban scale measurements||
