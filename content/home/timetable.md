@@ -65,8 +65,8 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges||
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges||
-| 12:30-13:15 |  **Andrei Skorokhod**  |  Atmospheric gasand liquid phases chemistry||
-| 13:15-14:00 |  **Olga Popovicheva**  |  Aerosol properties, dynamics, chemistry and microphysics||
+| 12:30-13:15 |  **[Andrei Skorokhod](/authors/skorokhod/)**  |  Atmospheric gasand liquid phases chemistry||
+| 13:15-14:00 |  **[Olga Popovicheva](/authors/popovicheva/)**  |  Aerosol properties, dynamics, chemistry and microphysics||
 | 14:00-15:00 ||  *Lunch*|
 | 15:00-16:00 ||  **Introduction** to Groups’ Research Projects|
 | **17th November** |
@@ -75,7 +75,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **Mariusz Pagowski**  |  Chemical and meteorological data assimilation|**TBC**|
 | 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification|**TBC**|
-| 13:15-14:00 |  **Natalia Chubarova**  |  Ground-based observations: basics, approaches, applicability||
+| 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability||
 | **18th November** |
 | 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
 | 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)||
@@ -86,10 +86,9 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 14:00-15:00 ||  *Lunch*|
 | 15:00-16:00 ||  **Questions** to Teachers of Groups’ Projects|
 | **19th November** |
-| 10:00-10:45 |  **Pavel Konstantinov** & **Pavel Terskiy** |  Meteorological and hydrological measurements||
-| 10:45-11:30 |  **Pavel Konstantinov** & **Mikhail Varentsov**   |  Urban scale measurements||
+| 10:00-10:45 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Pavel Tersky](/authors/tersky/)** |  Meteorological and hydrological measurements||
+| 10:45-11:30 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Mikhail Varentsov](/authors/varentsov/)**   |  Urban scale measurements||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **Varvara Mironova**  |  Environmental factors and human health: approaches and assessment||
-| 12:30-13:15 |  **Varvara Mironova** |  Environmental factors and human health: approaches and assessment||
-| 13:15-14:00 |  **Timofey Samsonov**  |  GIS technologies in environmental sciences||
+| 11:45-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment||
+| 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences||
 
