@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Schedule"
-subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Helsinki time (EET) <br> 11:00 EET = 4:00 CDT = 10:00 CET'
+subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_blank" rel="noopener"><i class="fas fa-download"></i> Download .pdf version </a> <br> <i class="fas fa-clock"></i> Helsinki time'
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
