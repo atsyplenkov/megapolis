@@ -32,19 +32,18 @@ SSRPs are arranged from 2nd day until official oral presentation/ defense of res
 
 ## SSRP Groups
 
-- **ARCA** - Resp. [Michael Boy](/authors/boy/) <br>
+- **ARCA** - Resp. [Michael Boy](/authors/boy/), [Petri Clusius](/authors/petri/) <br>
 The Atmospherically Relevant Chemistry and Aerosol Box Model (ARCA box) is used for simulating atmospheric chemistry and the time evolution of aerosol particles and the formation of stable molecular clusters. The backbone of ARCAs
 chemical library comes from the Master Chemical Mechanism (MCM), extended with Peroxy Radical Autoxidation Mechanism (PRAM), and is further extendable with any new reactions. Molecular clustering is simulated with the
 Atmospheric Cluster Dynamics Code (ACDC). The particle size distribution is represented with two alternative methods whose size and grid density are fully configurable. The evolution of the particle size distribution due to the
 condensation of low volatile organic vapors and the Brownian coagulation is simulated using established kinetic and thermodynamic theories. ARCA also provides a graphical user interface which improves its usability and repeatability of
 the simulations. A detailed manual and several tutorials are available at the MSM website under ‘ARCA box’. <br>
 **See also:** <br>
-  - ARCA-Box short description (coming soon)
   - https://www2.helsinki.fi/en/researchgroups/multi-scale-modelling/atmospherically-relevant-chemistry-and-aerosol-box-model
 
 ---
 
-- **Enviro-HIRLAM** - Resp.  [Alexander Mahura](/authors/mahura/) and [Roman Nuterman](/authors/nuterman/) <br>
+- **Enviro-HIRLAM** - Resp.  [Alexander Mahura](/authors/mahura/), [Roman Nuterman](/authors/nuterman/), [Georgii Nerobelov](/authors/nerobelov/) <br>
 Enviro-HIRLAM (see [Baklanov et al., 2017](https://doi.org/10.5194/gmd-10-2971-2017
 )) is a fully online-coupled ACT-NWP (Atmospheric Chemistry Transport – Numerical Weather Prediction) modeling system for regional-, meso- and urban scale different environmental applications. The NWP part
 developed by HIRLAM consortium is used for operational weather forecasting. The Enviro-components were mainly developed in a close collaboration with the Universities from different countries. It includes of gas-phase chemistry CBMZ
@@ -57,7 +56,7 @@ also implemented in STRACO condensation-convection scheme. The nucleation is dep
 
 ---
 
-- **EC-Earth** - Resp. [Risto Makkonen](/authors/makkonen/) <br>
+- **EC-Earth** - Resp. [Risto Makkonen](/authors/makkonen/), [Putian Zhou](/authors/putian/) <br>
 EC-Earth (see [Hazeleger et al., 2010](https://doi.org/10.1175/2010BAMS2877.1/)) is developed jointly by 28 European research institutes. The Coupled Model Intercomparison Project 5 (CMIP5) was the first CMIP for EC-Earth. EC-Earth comprises of atmosphere model IFS, ocean model NEMO
 and vegetation model LPJ-GUESS, coupled with OASIS coupler. Aerosols and chemistry are included through the global chemistry-transport model TM5. The Integrated Forecasting Model (IFS) is the atmospheric model developed at
 European Centre for Medium-Range Weather Forecasts. The IFS is coupled to the ocean model NEMO, which is run with 1º horizontal resolution and 42 vertical levels. The ice model LIM is coupled directly to the ocean model. EC-Earth
