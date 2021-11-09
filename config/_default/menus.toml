@@ -24,14 +24,19 @@
   weight = 40
   
 [[main]]
+  name = "Research Projects"
+  url = "ssrp"
+  weight = 40
+  
+[[main]]
   name = "DE&I Statement"
   url = "dei"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Topics"
   url = "topics"
-  weight = 60
+  weight = 70
 
 #[[main]]
 #  name = "Registration"
