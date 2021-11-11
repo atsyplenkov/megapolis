@@ -24,4 +24,5 @@ user_groups:
 - Lecturers
 ---
 
-Laboratory Coordinator in the section for the Physics of Ice, Climate and Earth at the Niels Bohr Institute (University of Copenhagen).
+Roman Nuterman; PhD (Phys. & Math.); he is currently research coordinator in the section of Ice, Climate and Earth physics at the Niels Bohr Institute (University of Copenhagen).
+His research interests are integrated modelling for climate, ocean and atmosphere, micro-/ meso-scale geophysical processes, air quality and atmospheric composition, computational fluid dynamics. Roman has been involved in many international projects such as FP6 (Enviro-RISKS, INTAS), FP7 (MEGAPOLI, MACC), Nordic (CEEH, MUSCATEN, CarboNord, EU COST Actions (-732, -EuMetChem), HIRLAM, EnviroChemistry/ EnviroAerosols/ Enviro-PEEX/ Enviro-PEEX(Plus) on ECMWF HPC, and other projects.
