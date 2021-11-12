@@ -43,7 +43,7 @@ the simulations. A detailed manual and several tutorials are available at the MS
 
 ---
 
-- **Enviro-HIRLAM** - Resp.  [Alexander Mahura](/authors/mahura/), [Roman Nuterman](/authors/nuterman/), [Georgii Nerobelov](/authors/nerobelov/) <br>
+- **Enviro-HIRLAM** - Resp.  [Alexander Mahura](/authors/mahura/), [Roman Nuterman](/authors/nuterman/), [Georgii Nerobelov](/authors/nerobelov/), [Mykhailo Savenets](/authors/savenets/) <br>
 Enviro-HIRLAM (see [Baklanov et al., 2017](https://doi.org/10.5194/gmd-10-2971-2017
 )) is a fully online-coupled ACT-NWP (Atmospheric Chemistry Transport – Numerical Weather Prediction) modeling system for regional-, meso- and urban scale different environmental applications. The NWP part
 developed by HIRLAM consortium is used for operational weather forecasting. The Enviro-components were mainly developed in a close collaboration with the Universities from different countries. It includes of gas-phase chemistry CBMZ
