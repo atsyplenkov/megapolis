@@ -23,4 +23,5 @@ superuser: true
 user_groups:
 - Lecturers
 ---
-Academician of Finnish Academy of Sciences, Academician of Chinese Academy of Sciences, Academician of Russian Academy of Sciences, Academy Professor Markku Kulmala, Director of Institute of Atmospheric and Earth System Research (INAR), University of Helsinki.
+
+Prof. Markku Kulmala, academician, directs Institute for Atmospheric and Earth System Research, professor at the University of Helsinki since 1996. He recently led the Finnish Centre of Excellence in Atmospheric Science - “From Molecular and Biological processes to the Global Climate” (2014-2019), and now he leads the Finnish Academy of Sciences Flagship “Atmosphere and Climate Competence Center (ACCC)” (2020-2024). He is active in international initiatives to improve comprehensive continuous measurement networks all around the world including concept of SMEAR (Station for Measuring Earth surface – Atmosphere Relations) stations, and to solve air quality - climate change interactions. Kulmala has published over 1150 original research papers, 18 of which in Nature, 17 in Science and 7 in Physical Review Letters. According to the ISI Web of Knowledge, Mr. Kulmala was 1st in the Citation Rankings in Geosciences (since May 1st, 2011-2019). The total number of citations is over 58 800 (from over 20 000 different papers). H-factor is 119.
