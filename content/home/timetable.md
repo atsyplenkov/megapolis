@@ -59,7 +59,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges||
 | 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges||
-| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)**  |  Atmospheric chemical transport modelling and challenges||
+| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges||
 | **16th November** |
 | 10:00-10:45 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)** |  Seamless online integrated modelling and specific challenges||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges||
