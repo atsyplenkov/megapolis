@@ -65,7 +65,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges||
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges||
-| 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlayev/)**  |  Atmospheric gasand liquid phases chemistry||
+| 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlyaev/)**  |  Atmospheric gasand liquid phases chemistry||
 | 13:15-14:00 |  **[Olga Popovicheva](/authors/popovicheva/)**  |  Aerosol properties, dynamics, chemistry and microphysics||
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Introduction** to Groups’ [Research Projects](/ssrp/)|
