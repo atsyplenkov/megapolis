@@ -18,7 +18,7 @@ subtitle = "Kindly ask your question using Q&A box in Zoom Meeting to write your
   icon = "video"
   icon_pack = "fas"
   name = "Zoom meeting"
-  description = "Where a live lectures will be given. Only registered persons access. The link was sent to you in email."
+  description = "Where a live lectures will be given. Only registered persons access. The link was sent by email."
   
 [[feature]]
   icon = "youtube"
