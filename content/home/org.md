@@ -38,7 +38,11 @@ feature:
   - icon: 
     icon_pack: 
     name: 'World Meteorological Organization <br> <br>'
-    description: '<img src = "/media/wmo.png" style="width:30%;height:30%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;">'
+    description: '<img src = "/media/wmo.png" style="width:30%;height:30%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;">'  
+  - icon: 
+    icon_pack: 
+    name: 'Russian State Hydrometeorological University <br> <br>'
+    description: '<img src = "/media/rshu.png" style="width:30%;height:30%;margin-left:auto; margin-right:auto;margin-top:auto; margin-bottom:auto;">'
   - icon: 
     icon_pack: 
     name: 'University of Tyumen <br> UTMN <br> <br>'
