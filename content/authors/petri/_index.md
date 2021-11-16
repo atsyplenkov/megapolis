@@ -17,3 +17,5 @@ superuser: true
 user_groups:
 - Lecturers
 ---
+
+Petri Clusius did his MSc in physics in University of Helsinki in 2016-2020 and is now a doctoral student at INAR's Multiscale Modelling Group. He is currently working with Lagrangian mode chemistry and aerosol modelling in Finnish and Russian boreal forest and Amazon area.
