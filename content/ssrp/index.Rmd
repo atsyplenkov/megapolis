@@ -53,6 +53,7 @@ also implemented in STRACO condensation-convection scheme. The nucleation is dep
 **See also:** <br>
   - Enviro-HIRLAM short description <a href="/media/model_Enviro-HIRLAM_short.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>
   - https://www2.helsinki.fi/en/researchgroups/multi-scale-modelling/enviro-hirlam
+  - Introduction lecture on Enviro-HIRLAM and model application <a href="/media/MEGAPOLIS-2021_Enviro-HIRLAM-model_intro_vd2.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf"></i></a>
 
 ---
 

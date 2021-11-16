@@ -51,15 +51,15 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 
 +++ 
 
-| 15th November |||Comments|
-|----------|:-------------|-------------:|------:|
-| 09:45-10:00 |    |  Opening ceremony||
-| 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme||
-| 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges||
+| 15th November |||Video|Slides|
+|----------|:-------------|-------------:|------:|------:|
+| 09:45-10:00 |    |  Opening ceremony|||
+| 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme|**[watch](https://youtu.be/VJbxKi-IDE4)**||
+| 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges|**[watch](https://youtu.be/CLLFapVGHJw)**||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges||
-| 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges||
-| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges||
+| 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges|**[watch](https://youtu.be/6HeV17D_m0g)**||
+| 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges|**[watch](https://youtu.be/gq-VS9VljdQ)**|**[.pdf](/media/L04_reimaa-eresmaa.pdf)**|
+| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges|**[watch](https://youtu.be/L2MUXys--fQ)**||
 | **16th November** |
 | 10:00-10:45 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)** |  Seamless online integrated modelling and specific challenges||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges||
@@ -73,8 +73,8 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions||
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **Mariusz Pagowski**  |  Chemical and meteorological data assimilation|**TBC**|
-| 12:30-13:15 |  **Dominik Brunner**  |  Evaluation of models and verification|**TBC**|
+| 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation||
+| 12:30-13:15 |  **TBC**  |  Evaluation of models and verification||
 | 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability||
 | **18th November** |
 | 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
