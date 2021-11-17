@@ -62,7 +62,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges| **[watch](https://youtu.be/L2MUXys--fQ)** ||
 | **16th November** |
 | 10:00-10:45 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)** |  Seamless online integrated modelling and specific challenges| **[watch](https://youtu.be/U2NJCfVPbuc)** | **[.pdf](L06_Alexander_Baklanov.pdf)** |
-| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges| **[watch](https://youtu.be/HaDfUgTZob8)** ||
+| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges| **[watch](https://youtu.be/HaDfUgTZob8)** | **[.pdf](/lectures/L07_michael-boy.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges| **[watch](https://youtu.be/utkTr5wcwE4)** | **[.pdf](/lectures/L08_igor-ezau.pdf)** |
 | 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlyaev/)**  |  Atmospheric gasand liquid phases chemistry| **[watch](https://youtu.be/OVwLhD49_Fo)** |  |
