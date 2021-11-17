@@ -65,13 +65,13 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges| **[watch](https://youtu.be/HaDfUgTZob8)** | **[.pdf](/lectures/L07_michael-boy.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges| **[watch](https://youtu.be/utkTr5wcwE4)** | **[.pdf](/lectures/L08_igor-ezau.pdf)** |
-| 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlyaev/)**  |  Atmospheric gasand liquid phases chemistry| **[watch](https://youtu.be/OVwLhD49_Fo)** |  |
+| 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlyaev/)**  |  Atmospheric gasand liquid phases chemistry| **[watch](https://youtu.be/OVwLhD49_Fo)** |  **[.pdf](/lectures/L09_sergey-smyshlaev.pdf)** |
 | 13:15-14:00 |  **[Olga Popovicheva](/authors/popovicheva/)**  |  Aerosol properties, dynamics, chemistry and microphysics| **[watch](https://youtu.be/CH1dAXQIiBE)** | **[.pdf](/lectures/L10_olga-popovicheva.pdf)** |
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Introduction** to Groups’ [Research Projects](/ssrp/)|
 | **17th November** |
 | 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions||
-| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions||
+| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions | **[.pdf](/lectures/L12_michael-boy.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation||
 | 12:30-13:15 |  **!Canceled!**  |  Evaluation of models and verification||
