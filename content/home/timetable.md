@@ -70,12 +70,12 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Introduction** to Groups’ [Research Projects](/ssrp/)|
 | **17th November** |
-| 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions|| **[<i class="fas fa-file-pdf"></i>](/lectures/L11_chubarova.pdf)** |
-| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions || **[<i class="fas fa-file-pdf"></i>](/lectures/L12_michael-boy.pdf)** |
+| 10:00-10:45 |  **[Natalia Chubarova](/authors/chubarova/)** |  Aerosol - cloud radiation interactions| **[<i class="fab fa-youtube"></i>](https://youtu.be/5NTpt2K-fb8)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L11_chubarova.pdf)** |
+| 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Biogenic / natural / anthropogenic emissions | **[<i class="fab fa-youtube"></i>](https://youtu.be/gTs67dOrPIg)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L12_michael-boy.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation|| **[<i class="fas fa-file-pdf"></i>](/lectures/L13_mariusz-pagowski.pdf)** |
+| 11:45-12:30 |  **[Mariusz Pagowski](/authors/pagowski/)**  |  Chemical and meteorological data assimilation| **[<i class="fab fa-youtube"></i>](https://youtu.be/xSMGun1PCJ8)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L13_mariusz-pagowski.pdf)** **[<i class="fas fa-photo-video"></i>](L13_Mariusz_Pagowski_movie_aersols.gif)** |
 | 12:30-13:15 |  **!Canceled!**  |  Evaluation of models and verification||
-| 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability|| **[<i class="fas fa-file-pdf"></i>](/lectures/L15_chubarova.pdf)** |
+| 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/e2yB2H6nq_o)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L15_chubarova.pdf)** |
 | **18th November** |
 | 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
 | 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)||
