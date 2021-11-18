@@ -51,7 +51,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 
 +++ 
 
-| 15th November |||Video|Slides|
+| 15th November |||Video|Files|
 |----------|:-------------|-------------:|------:|------:|
 | 09:45-10:00 |    |  Opening ceremony|||
 | 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme| **[<i class="fab fa-youtube"></i>](https://youtu.be/VJbxKi-IDE4)** ||
@@ -66,7 +66,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Igor Esau](/authors/esau/)**  |  Atmospheric boundary layer processes, modelling and challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/utkTr5wcwE4)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L08_igor-ezau.pdf)** |
 | 12:30-13:15 |  **[Sergey Smyshlayev](/authors/smyshlyaev/)**  |  Atmospheric gasand liquid phases chemistry| **[<i class="fab fa-youtube"></i>](https://youtu.be/OVwLhD49_Fo)** |  **[<i class="fas fa-file-pdf"></i>](/lectures/L09_sergey-smyshlaev.pdf)** |
-| 13:15-14:00 |  **[Olga Popovicheva](/authors/popovicheva/)**  |  Aerosol properties, dynamics, chemistry and microphysics| **[<i class="fab fa-youtube"></i>](https://youtu.be/CH1dAXQIiBE)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L10_olga-popovicheva.pdf)** |
+| 13:15-14:00 |  **[Olga Popovicheva](/authors/popovicheva/)**  |  Aerosol properties, dynamics, chemistry and microphysics| **[<i class="fab fa-youtube"></i>](https://youtu.be/CH1dAXQIiBE)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L10_olga-popovicheva.pdf)** **[<i class="fas fa-file-word"></i>](/media/aerosol-climate-literature.docx)** |
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Introduction** to Groups’ [Research Projects](/ssrp/)|
 | **17th November** |
@@ -89,6 +89,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:00-10:45 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Pavel Tersky](/authors/tersky/)** |  Meteorological and hydrological measurements||
 | 10:45-11:30 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Mikhail Varentsov](/authors/varentsov/)**   |  Urban scale measurements||
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment||
+| 11:45-12:30 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 1)||
+| 12:30-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 2)||
 | 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences||
 
