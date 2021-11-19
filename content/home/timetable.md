@@ -54,12 +54,12 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 15th November |||Video|Files|
 |----------|:-------------|-------------:|------:|------:|
 | 09:45-10:00 |    |  Opening ceremony|||
-| 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme| **[<i class="fab fa-youtube"></i>](https://youtu.be/VJbxKi-IDE4)** ||
+| 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme| **[<i class="fab fa-youtube"></i>](https://youtu.be/VJbxKi-IDE4)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L01_hanna-lappalainen.pdf)** |
 | 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/CLLFapVGHJw)** ||
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges | **[<i class="fab fa-youtube"></i>](https://youtu.be/6HeV17D_m0g)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L03_sergey-chalov.pdf)** |
 | 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges | **[<i class="fab fa-youtube"></i>](https://youtu.be/gq-VS9VljdQ)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L04_reimaa-eresmaa.pdf)** |
-| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/L2MUXys--fQ)** ||
+| 13:15-14:00 |  **[Alexander Baklanov](/authors/baklanov/) & [Yang Zhang](/authors/zhang/)**  |  Atmospheric chemical transport modelling and challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/L2MUXys--fQ)** | **[<i class="fas fa-file-pdf"></i>](L05_Alexander_Baklanov.pdf)** |
 | **16th November** |
 | 10:00-10:45 |  **[Alexander Baklanov](/authors/baklanov/) & [Alexander Mahura](/authors/mahura/)** |  Seamless online integrated modelling and specific challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/U2NJCfVPbuc)** | **[<i class="fas fa-file-pdf"></i>](L06_Alexander_Baklanov.pdf)** |
 | 10:45-11:30 |  **[Michael Boy](/authors/boy/)**  |  Process-based modelling for meteorologychemistryaerosol system and specific challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/HaDfUgTZob8)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L07_michael-boy.pdf)** |
@@ -77,12 +77,12 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 12:30-13:15 |  **!Canceled!**  |  Evaluation of models and verification||
 | 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/e2yB2H6nq_o)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L15_chubarova.pdf)** |
 | **18th November** |
-| 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability||
-| 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)||
+| 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/qmgQm5M2dhM)** |    | 
+| 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)| **[<i class="fab fa-youtube"></i>](https://youtu.be/fqAkFx1_9r8)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L17_Tuukka_Petaja.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Jaana Bäck](/authors/back/)**  |  SMEAR ecosystem measurements (Part 2)||
-| 12:30-13:15 |  **[Tuukka Petäjä](/authors/tuukka/)** & **[Jaana Bäck](/authors/back/)**  |  European strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
-| 13:15-14:00 |  **[Sergey Chalov](/authors/chalov/)**  |  Russian strategy in meteo, hydro, atmospheric composition and ecosystems monitoring||
+| 11:45-12:30 |  **[Jaana Bäck](/authors/back/)**  |  SMEAR ecosystem measurements (Part 2)| **[<i class="fab fa-youtube"></i>](https://youtu.be/__AJ6I5-0UM)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L18_Jaana_Back.pdf)** |
+| 12:30-13:15 |  **[Tuukka Petäjä](/authors/tuukka/)** & **[Jaana Bäck](/authors/back/)**  |  European strategy in meteo, hydro, atmospheric composition and ecosystems monitoring| **[<i class="fab fa-youtube"></i>](https://youtu.be/rAPedUJZFHM)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L19_Petaja_Back.pdf)** |
+| 13:15-14:00 |  **[Sergey Chalov](/authors/chalov/)**  |  Russian strategy in meteo, hydro, atmospheric composition and ecosystems monitoring| **[<i class="fab fa-youtube"></i>](https://youtu.be/0oRtU7KERPM)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L20_sergey-chalov.pdf)** |
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Questions** to [Research Project's](/ssrp/) teachers|
 | **19th November** |
