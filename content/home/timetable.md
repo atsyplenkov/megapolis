@@ -86,10 +86,10 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 14:00-15:00 ||  *Lunch*|
 | 16:00-17:00 ||  **Questions** to [Research Project's](/ssrp/) teachers|
 | **19th November** |
-| 10:00-10:45 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Pavel Tersky](/authors/tersky/)** |  Meteorological and hydrological measurements||
-| 10:45-11:30 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Mikhail Varentsov](/authors/varentsov/)**   |  Urban scale measurements||
+| 10:00-10:45 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Pavel Tersky](/authors/tersky/)** |  Meteorological and hydrological measurements| **[<i class="fab fa-youtube"></i>](https://youtu.be/KYuoJNEcyKM)** **[<i class="fab fa-youtube"></i>](https://youtu.be/mKlm9AwQXhQ)** | |
+| 10:45-11:30 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Mikhail Varentsov](/authors/varentsov/)**   |  Urban scale measurements| **[<i class="fab fa-youtube"></i>](https://youtu.be/BwBmtvWy-2Q)** **[<i class="fab fa-youtube"></i>](https://youtu.be/m_l2Mtt76ug)** | |
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 1)||
-| 12:30-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 2)||
-| 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences||
+| 11:45-12:30 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 1)| **[<i class="fab fa-youtube"></i>](https://youtu.be/e9QuX8ce8r0)**| |
+| 12:30-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 2)| **[<i class="fab fa-youtube"></i>](https://youtu.be/HUNDI5SJp7k)** | |
+| 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences| **[<i class="fab fa-youtube"></i>](https://youtu.be/xs1YfX33xTw)** |  |
 
