@@ -55,7 +55,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 |----------|:-------------|-------------:|------:|------:|
 | 09:45-10:00 |    |  Opening ceremony|||
 | 10:00-10:45 |  **[Hanna Lappalainen](/authors/lappalainen/) & [Markku Kulmala](/authors/kulmaala/)**  |  Introduction to Pan-Eurasian EXperiment (PEEX) programme| **[<i class="fab fa-youtube"></i>](https://youtu.be/VJbxKi-IDE4)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L01_hanna-lappalainen.pdf)** |
-| 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/CLLFapVGHJw)** ||
+| 10:45-11:30 |  **[Risto Makkonen](/authors/makkonen/)**  |  Earth System Modelling and specific challenges| **[<i class="fab fa-youtube"></i>](https://youtu.be/CLLFapVGHJw)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L02_risto-makkonen.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Sergey Chalov](/authors/chalov/)**  |  Hydrological modelling and specific challenges | **[<i class="fab fa-youtube"></i>](https://youtu.be/6HeV17D_m0g)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L03_sergey-chalov.pdf)** |
 | 12:30-13:15 |  **[Reima Eresmaa](/authors/reima/)**  |  Numerical weather prediction and specific challenges | **[<i class="fab fa-youtube"></i>](https://youtu.be/gq-VS9VljdQ)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L04_reimaa-eresmaa.pdf)** |
@@ -77,7 +77,7 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 12:30-13:15 |  **!Canceled!**  |  Evaluation of models and verification||
 | 13:15-14:00 |  **[Natalia Chubarova](/authors/chubarova/)** |  Ground-based observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/e2yB2H6nq_o)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L15_chubarova.pdf)** |
 | **18th November** |
-| 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/qmgQm5M2dhM)** |    | 
+| 10:00-10:45 |  **[Larisa Sogacheva](/authors/sogacheva/)** |  Remote sensing observations: basics, approaches, applicability| **[<i class="fab fa-youtube"></i>](https://youtu.be/qmgQm5M2dhM)** |  **[<i class="fas fa-file-pdf"></i>](/lectures/L16_sogacheva.pdf)**  | 
 | 10:45-11:30 |  **[Tuukka Petäjä](/authors/tuukka/)**  |  SMEAR atmospheric composition measurements (Part 1)| **[<i class="fab fa-youtube"></i>](https://youtu.be/fqAkFx1_9r8)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L17_Tuukka_Petaja.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
 | 11:45-12:30 |  **[Jaana Bäck](/authors/back/)**  |  SMEAR ecosystem measurements (Part 2)| **[<i class="fab fa-youtube"></i>](https://youtu.be/__AJ6I5-0UM)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L18_Jaana_Back.pdf)** |
