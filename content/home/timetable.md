@@ -89,7 +89,9 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 | 10:00-10:45 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Pavel Tersky](/authors/tersky/)** |  Meteorological and hydrological measurements| **[<i class="fab fa-youtube"></i>](https://youtu.be/KYuoJNEcyKM)** **[<i class="fab fa-youtube"></i>](https://youtu.be/mKlm9AwQXhQ)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L21_pavel-tersky.pdf)** |
 | 10:45-11:30 |  **[Pavel Konstantinov](/authors/konstantinov/)** & **[Mikhail Varentsov](/authors/varentsov/)**   |  Urban scale measurements| **[<i class="fab fa-youtube"></i>](https://youtu.be/BwBmtvWy-2Q)** **[<i class="fab fa-youtube"></i>](https://youtu.be/m_l2Mtt76ug)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L22_varentsov.pdf)** |
 | 11:30-11:45 ||  *Coffee break*|
-| 11:45-12:30 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 1)| **[<i class="fab fa-youtube"></i>](https://youtu.be/e9QuX8ce8r0)**| |
-| 12:30-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 2)| **[<i class="fab fa-youtube"></i>](https://youtu.be/HUNDI5SJp7k)** | |
-| 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences| **[<i class="fab fa-youtube"></i>](https://youtu.be/xs1YfX33xTw)** |  |
+| 11:45-12:30 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 1)| **[<i class="fab fa-youtube"></i>](https://youtu.be/e9QuX8ce8r0)**| **[<i class="fas fa-file-pdf"></i>](/lectures/L23-24_mironova.pdf)** |
+| 12:30-13:15 |  **[Varvara Mironova](/authors/mironova/)**  |  Environmental factors and human health: approaches and assessment (Part 2)| **[<i class="fab fa-youtube"></i>](https://youtu.be/HUNDI5SJp7k)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L23-24_mironova.pdf)** |
+| 13:15-14:00 |  **[Timofey Samsonov](/authors/samsonov/)**  |  GIS technologies in environmental sciences| **[<i class="fab fa-youtube"></i>](https://youtu.be/xs1YfX33xTw)** | **[<i class="fas fa-file-pdf"></i>](/lectures/L25_samsonov.pdf)** |
+| **3rd December** |
+| 09:45-13:00 |    |  Closing ceremony|||
 
