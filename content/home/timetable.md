@@ -102,4 +102,4 @@ subtitle = '<a href="/media/YSSchool_online_Nov2021_programme_vd1.pdf" target="_
 ||| **Enviro-HIRLAM-3**: The influence of anthropogenic heat flux on meteorological patterns on the metropolitan area of Paris
 ||| **ARCA-3**: How do mixtures of VOCs influence particle growth in real atmosphere?
 ||| **Enviro-HIRLAM-4**: The influence of black carbon and mass concentration of dust on meteorological parameters
-|| Evaluation results (awarding certificates and challenges)
+|| Evaluation results (awarding certificates and challenges) **[<i class="fas fa-file-pdf"></i>](/media/EvalResults_SSRPs_3Dec2021_vf.pdf)**
