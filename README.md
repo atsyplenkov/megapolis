@@ -4,7 +4,7 @@
 
 This website contains materials for a 2-day School for Young Scientists for the [Faculty of Geography](http://geogr.msu.ru/) at the Lomonosov Moscow State University.
 
-The full website is available here: <https://megapolis2020.ru/>
+The full website is available here: <https://megapolis2021.netlify.app/>
 
 # Acknowledgments
 
